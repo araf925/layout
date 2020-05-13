@@ -1,0 +1,33 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #FFB4C3;
+	padding: 20px;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.box{
+	min-height: 80px;
+	background-color: #97D3EF;
+	margin: 10px 0px;
+	border: 5px solid #408F58;
+}
+
+.box1{
+	border: 10px solid #408F58;
+}
+.inner{
+	border: 10px solid #A8D429;
+	min-height: 80px;
+	background-color: #97D3EF;
+}
+.red{
+	min-height: 85px;
+	background-color: #FE3022;
+	margin: 10px 0px;
+	border: 5px solid #408F58;
+}
+.box2{
+	min-height: 80px;
+	background-color: #97D3EF;
+	margin: 10px 0px;
+}
